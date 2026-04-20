@@ -44,7 +44,7 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 - Star Fox
   
-  Star Fox 64
+- Star Fox 64
   
   ### Intentionally not included
 
@@ -52,9 +52,9 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 ## Resources
 
-[The Shmups Wiki][https://shmups.wiki/library/Main_Page] is full of useful info.
+[The Shmups Wiki](https://shmups.wiki/library/Main_Page) is full of useful info.
 
-[Boghog's Beat 'em Up Curriculum][https://www.patreon.com/posts/beat-em-up-121267653] is a great way to get into beatemups as a beginner.
+[Boghog's Beat 'em Up Curriculum](https://www.patreon.com/posts/beat-em-up-121267653) is a great way to get into beatemups as a beginner.
 
 ## Contributing
 
