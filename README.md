@@ -33,8 +33,8 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 - Mission Metal Sight
 
 - Neural Gear
-  
-  ### Honorable mentions (Good almost-Harriers)
+
+### Honorable mentions (Good almost-Harriers)
 
 - G-loc
 
@@ -46,7 +46,7 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
   
 - Star Fox 64
   
-  ### Intentionally not included
+### Intentionally not included
 
 - Rainbow Cotton (they say it's bad)
 
