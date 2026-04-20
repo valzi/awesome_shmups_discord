@@ -5,23 +5,12 @@
 ## Contents
 
 - [Harrier-likes](#Harrier-likes)
-- [Another Section](#another-section)
 
 ## Harrier-likes
 
-Space Harrier is a game about
+Space Harrier is a game about dodging scenery, shooting things quickly before they're gone, dodging aimed bullets, and automatically moving straight forward in a 3d world. Controls just reposition the player.
 
-- Dodging scenery
-
-- Shooting things quick before they're not there
-
-- Dodging aimed bullets
-
-- Constantly moving straight forward
-
-- Controls just reposition character
-  
-  ### Good Harrier-likes
+- ### Good Harrier-likes
 
 - Space Harrier (3ds or revenge sega ages port recommended) 
 
@@ -60,13 +49,6 @@ Space Harrier is a game about
   ### Intentionally not included
 
 - Rainbow Cotton (they say it's bad)
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 ## Contributing
 
