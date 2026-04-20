@@ -4,7 +4,8 @@
 
 ## Contents
 
-- [Harrier-likes](#Harrier-likes)
+[Harrier-likes](#Harrier-likes)
+[Resources](#Resources)
 
 ## Harrier-likes
 
