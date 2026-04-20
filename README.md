@@ -60,6 +60,8 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 [Boghog's Beat 'em Up Curriculum](https://www.patreon.com/posts/beat-em-up-121267653) is a great way to get into beatemups as a beginner.
 
+[Holy's Lightgun Game List](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig)
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
