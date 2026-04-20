@@ -56,6 +56,8 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 [Shmup Beginner's List](https://docs.google.com/spreadsheets/d/1MZz8Q_8HdGyh2QU9BX4lNgyVAP9JZxxuy_YYbOLf1CM/edit?gid=0#gid=0)
 
+[Shmups Difficulty Ratings](https://docs.google.com/spreadsheets/d/1Y3P-NtmsT9n54ZzQh47tE5lXVcZ5YkIyA9rwDxI7-_k/edit?gid=0#gid=0)
+
 [Boghog's Beat 'em Up Curriculum](https://www.patreon.com/posts/beat-em-up-121267653) is a great way to get into beatemups as a beginner.
 
 ## Contributing
