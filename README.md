@@ -52,8 +52,7 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 - Rainbow Cotton (they say it's bad)
 
 ## Light Gun Compendium
-[Light Gun Compendium](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig)
-from the Shmups Discord.
+[Light Gun Compendium](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig) spreadsheet from the Shmups Discord.
 
 ## Other Resources
 
