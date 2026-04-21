@@ -3,8 +3,9 @@
 > video game recommendations and such
 
 ## Contents
-- [Harrier-likes](#Harrier-likes)
-- [Resources](#Resources)
+- [Harrier-likes](#harrier-likes)
+- [Light Gun Compendium](#light-gun-compendium)
+- [Resources](#resources)
 
 ## Harrier-likes
 
@@ -50,6 +51,10 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 - Rainbow Cotton (they say it's bad)
 
+## Light Gun Compendium
+[Light Gun Compendium](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig)
+from the Shmups Discord.
+
 ## Other Resources
 
 [The Shmups Wiki](https://shmups.wiki/library/Main_Page) is full of useful info.
@@ -59,8 +64,6 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 [Shmups Difficulty Ratings](https://docs.google.com/spreadsheets/d/1Y3P-NtmsT9n54ZzQh47tE5lXVcZ5YkIyA9rwDxI7-_k/edit?gid=0#gid=0)
 
 [Boghog's Beat 'em Up Curriculum](https://www.patreon.com/posts/beat-em-up-121267653) is a great way to get into beatemups as a beginner.
-
-[Holy's Lightgun Game List](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig)
 
 ## Contributing
 
