@@ -5,7 +5,7 @@
 ## Contents
 - [Harrier-likes](#harrier-likes)
 - [Light Gun Compendium](#light-gun-compendium)
-- [Which Region/Revision?](#Which-Region/Revision?)
+- [Which Region and Revision?](#Which-region-and-revision?)
 - [Resources](#resources)
 
 ## Harrier-likes
@@ -55,7 +55,7 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 ## Light Gun Compendium
 [Light Gun Compendium](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig) spreadsheet from the Shmups Discord.
 
-## Which Region/Revision?
+## Which Region and Revision?
 
 ### Ghouls n Ghosts
 Japan.
