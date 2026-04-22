@@ -65,6 +65,10 @@ Japan.
 ### Cadash
 Some versions are much easier than others. <img width="860" height="390" alt="image" src="https://github.com/user-attachments/assets/d6668bc8-62f8-4340-b627-f84c49346587" />
 
+### Clockwork Aquario
+
+Set all dips to 1.
+
 ### Ghosts n Goblins
 "Ghosts n Goblins has a ton of revisions with lots of differences between them. You generally want the final revision, "Japan G". But the most important part is having one of the versions where the satan boss isn't unfairly difficult." - Sumez
 <img width="641" height="414" alt="image" src="https://github.com/user-attachments/assets/886b4219-96f5-432e-84b3-20b22d63f587" />
