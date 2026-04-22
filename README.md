@@ -57,6 +57,8 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 ## Which Region and Revision?
 
+See the Light Gun Compendium as well.
+
 ### Ghouls n Ghosts
 Japan.
 
