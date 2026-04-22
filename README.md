@@ -5,6 +5,7 @@
 ## Contents
 - [Harrier-likes](#harrier-likes)
 - [Light Gun Compendium](#light-gun-compendium)
+- [Which Region/Revision?](#Which-Region/Revision?)
 - [Resources](#resources)
 
 ## Harrier-likes
@@ -53,6 +54,24 @@ Space Harrier is a game about dodging scenery, shooting things quickly before th
 
 ## Light Gun Compendium
 [Light Gun Compendium](https://docs.google.com/spreadsheets/d/15bAlB9GoBg5Q0FcS4ZBqxmYEoW2Die5sYkRebActAig) spreadsheet from the Shmups Discord.
+
+## Which Region/Revision?
+
+### Ghouls n Ghosts
+Japan.
+
+### Cadash
+Some versions are much easier than others. <img width="860" height="390" alt="image" src="https://github.com/user-attachments/assets/d6668bc8-62f8-4340-b627-f84c49346587" />
+
+### Ghosts n Goblins
+"Ghosts n Goblins has a ton of revisions with lots of differences between them. You generally want the final revision, "Japan G". But the most important part is having one of the versions where the satan boss isn't unfairly difficult." - Sumez
+<img width="641" height="414" alt="image" src="https://github.com/user-attachments/assets/886b4219-96f5-432e-84b3-20b22d63f587" />
+
+### Out Zone
+"Out Zone has a few different versions. You want one of the later ones with correct music and all the hidden score features. But there's also one which MAME just names "harder". It's never been cleared up exactly why it exists, but from my observations it seems to be made for the European market. Some people don't like it, but my PCB is that version and I really prefer it. It starts out a bit tough, but I think that's better than enemies not even shooting on the first stage. The difficulty doesn't feel notably harder further in, and it's still an easy game. It also doesn't shower you with bombs. Or, it does. But the other usual version gives you twice as many as that." - Sumez
+
+### Horror Story / Demon's World
+"Horror Story / Demon's World is one to watch out for. The one that MAME has noted as its "default" rom set, is a version [with] a totally different stage order, which also greatly affects the difficulty of each stage, with different enemy patterns as well. It's almost two different games. But it also lacks the final stage entirely, and just skips you directly to the final boss after the second dragon. That really sucks because the final stage is amazing. You want the version that starts with the China stage. The M2 port has both versions but correctly lists the "right" version first, as the default choice. It's also the version the PC Engine port was based on." -Sumez
 
 ## Other Resources
 
