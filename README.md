@@ -5,7 +5,7 @@
 ## Contents
 - [Harrier-likes](#harrier-likes)
 - [Light Gun Compendium](#light-gun-compendium)
-- [Which Region and Revision?](#Which-region-and-revision?)
+- [Which Region and Revision?](#Which-region-and-revision)
 - [Resources](#resources)
 
 ## Harrier-likes
