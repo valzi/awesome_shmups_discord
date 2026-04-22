@@ -73,6 +73,9 @@ Some versions are much easier than others. <img width="860" height="390" alt="im
 ### Horror Story / Demon's World
 "Horror Story / Demon's World is one to watch out for. The one that MAME has noted as its "default" rom set, is a version [with] a totally different stage order, which also greatly affects the difficulty of each stage, with different enemy patterns as well. It's almost two different games. But it also lacks the final stage entirely, and just skips you directly to the final boss after the second dragon. That really sucks because the final stage is amazing. You want the version that starts with the China stage. The M2 port has both versions but correctly lists the "right" version first, as the default choice. It's also the version the PC Engine port was based on." -Sumez
 
+### Haunted Castle
+Avoid USA version.
+
 ## Other Resources
 
 [The Shmups Wiki](https://shmups.wiki/library/Main_Page) is full of useful info.
