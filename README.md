@@ -75,6 +75,7 @@ Some versions are much easier than others. <img width="860" height="390" alt="im
 
 ### Haunted Castle
 Avoid USA version.
+<img width="962" height="211" alt="image" src="https://github.com/user-attachments/assets/5a31b55e-a8e2-4303-b6bc-9e9c248db936" />
 
 ## Other Resources
 
