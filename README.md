@@ -13,18 +13,18 @@
 
 [Several have a performance option to remove/reduce slowdown. Which ones though?]
 
-- Assault has simplified controls for modern controllers
+- Assault has simplified controls for modern controllers.
 - Gradius 3 has a training mode with hitbox display, stage/weapon select, and myriad optional tweaks. (Osku says the Origins collection does this even better.)
 - Phelios includes custom autofire, for rapid charged shots.
 - Pistol Daimyo no Bouken includes custom autofire, for rapid charged shots.
-- Raiden allows you to control the rng seed
+- Raiden allows you to control the rng seed.
 - Task Force Harrier has accurate slowdown. Mame doesn't.
-- Terra Cresta has 3 different soundtracks to choose from
-- Thunder Ceptor adds optional new bgm from the original composer
-- Trigon has a hitbox reduction option
-- Victory Road has simplified controls for modern controllers
+- Terra Cresta has 3 different soundtracks to choose from.
+- Thunder Ceptor adds optional new bgm from the original composer.
+- Trigon has a hitbox reduction option.
+- Victory Road has simplified controls for modern controllers.
 - Warp & warp has an aim-assisting grid.
-- Xevious has optional logo burn-in
+- Xevious has optional logo burn-in.
 
 ## Harrier-likes
 
