@@ -9,22 +9,11 @@
 - [Which Region and Revision?](#Which-region-and-revision)
 - [Resources](#resources)
 
-## Arcade Archives Tweaks
+## Arcade Archives Extras and other info
 
-[Several have a performance option to remove/reduce slowdown. Which ones though?]
+Mouseover the YES in the EXTRAS column.
 
-- Assault has simplified controls for modern controllers.
-- Gradius 3 has a training mode with hitbox display, stage/weapon select, and myriad optional tweaks. (Osku says the Origins collection does this even better.)
-- Phelios includes custom autofire, for rapid charged shots.
-- Pistol Daimyo no Bouken includes custom autofire, for rapid charged shots.
-- Raiden allows you to control the rng seed.
-- Task Force Harrier has accurate slowdown. Mame doesn't.
-- Terra Cresta has 3 different soundtracks to choose from.
-- Thunder Ceptor adds optional new bgm from the original composer.
-- Trigon has a hitbox reduction option.
-- Victory Road has simplified controls for modern controllers.
-- Warp & warp has an aim-assisting grid.
-- Xevious has optional logo burn-in.
+https://docs.google.com/spreadsheets/d/1x2TJRfY7xKMU4fNy_1xvdtKmOpmoFqUIN_IgTLlsIM0/
 
 ## Harrier-likes
 
