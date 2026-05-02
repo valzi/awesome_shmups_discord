@@ -8,6 +8,23 @@
 - [Which Region and Revision?](#Which-region-and-revision)
 - [Resources](#resources)
 
+## Arcade Archives tweaks
+
+[Several of them have a performance option to remove/reduce slowdown. Which ones though?]
+
+- Xevious has optional logo burn-in
+- Warp & warp has an aim-assisting grid.
+- Trigon has a hitbox reduction option
+- Thunder Ceptor adds optional new bgm from the original composer
+- Terra Cresta has 3 different soundtracks to choose from
+- Task Force Harrier has accurate slowdown. Mame doesn't.
+- Raiden allows you to control the rng seed
+- Phelios includes custom autofire, for rapid charged shots.
+- Pistol Daimyo no Bouken includes custom autofire, for rapid charged shots.
+- Gradius 3 has a training mode with hitbox display, stage/weapon select, and myriad optional tweaks. (Osku says the Origins collection does this even better.)
+- Assault has simplified controls for modern controllers
+- Victory Road has simplified controls for modern controllers
+
 ## Harrier-likes
 
 Space Harrier is a game about dodging scenery, shooting things quickly before they're gone, dodging aimed bullets, and automatically moving straight forward in a 3d world. Controls just reposition the player.
