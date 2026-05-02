@@ -3,12 +3,13 @@
 > video game recommendations and such
 
 ## Contents
+- [Arcade Archives Tweaks](#Arcade-Archives-Tweaks)
 - [Harrier-likes](#harrier-likes)
 - [Light Gun Compendium](#light-gun-compendium)
 - [Which Region and Revision?](#Which-region-and-revision)
 - [Resources](#resources)
 
-## Arcade Archives tweaks
+## Arcade Archives Tweaks
 
 [Several of them have a performance option to remove/reduce slowdown. Which ones though?]
 
