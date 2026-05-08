@@ -15,6 +15,10 @@ Mouseover the YES in the EXTRAS column.
 
 https://docs.google.com/spreadsheets/d/1x2TJRfY7xKMU4fNy_1xvdtKmOpmoFqUIN_IgTLlsIM0/
 
+## Driving Directory
+
+Information compiled by Holy about [driving games](https://docs.google.com/spreadsheets/d/1J4-ZPTFMX0DZ_QikvPjOeAhoPMlCoS3y_fkCSlkZKD4/).
+
 ## Harrier-likes
 
 Space Harrier is a game about dodging scenery, shooting things quickly before they're gone, dodging aimed bullets, and automatically moving straight forward in a 3d world. Controls just reposition the player.
